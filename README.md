@@ -8,7 +8,7 @@
 <p align="center">
   開発中に画像を追加したら自動で圧縮&WebP変換してくれるテンプレートです。<br>
   <code>/src/images/</code>に画像を追加したら自動で変換されます。<br>
-  詳細は<a href="https://kakechimaru.com/webpack_imagemin/">ブログ</a>で解説しています。
+  詳細は<a href="https://kakechimaru.com/webpack_imagemin/" target="_blank">ブログ</a>で解説しています。
 </p>
 
 
